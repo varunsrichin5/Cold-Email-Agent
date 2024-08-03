@@ -15,13 +15,13 @@ Cool Stuff It Can Do
 
 Tech I'm Playing With
 
-Python (because who doesn't love Python?)
-CrewAI (for managing all the moving parts)
-LangChain & OpenAI's GPT-4 (for the smart stuff)
+Python 
+CrewAI 
+LangChain & OpenAI's GPT-4 
 Hunter.io API (for finding those elusive email addresses)
 Mailjet API (for actually sending emails)
 LangSmith (to see what's going on under the hood)
-Streamlit (for a simple UI, because command lines are scary)
+Streamlit (for a simple UI)
 
 Want to Give It a Spin?
 What You'll Need
