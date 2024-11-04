@@ -35,7 +35,7 @@ os.environ["LANGCHAIN_PROJECT"] = LANGCHAIN_PROJECT
 # Initialize LangChain tracer and OpenAI chat model
 tracer = LangChainTracer(project_name=LANGCHAIN_PROJECT)
 console_handler = ConsoleCallbackHandler()
-llm = ChatOpenAI(temperature=0.7, model_name="gpt-4")
+llm = ChatOpenAI(temperature=0.7, model_name="gpt-4o")
 
 # Initialize Mailjet client
 mailjet = Client(auth=(MAILJET_API_KEY, MAILJET_API_SECRET), version='v3.1')
